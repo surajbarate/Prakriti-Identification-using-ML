@@ -108,15 +108,15 @@ REACT_APP_GEMINI_API_KEY=
 > Location: `frontend/"ayurveda Main"/"ayurveda Main"/frontend`
 
 ```env
-MONGO_URI=mongodb://localhost:27017/ayurvedicDB
+MONGO_URI=
 
 JWT_SECRET=
 PORT=5000
 EMAIL_USER=
 EMAIL_PASS=
-EMAIL_SERVICE=gmail
-EMAIL_PORT=465
-EMAIL_HOST=smtp.gmail.com
+EMAIL_SERVICE=
+EMAIL_PORT=
+EMAIL_HOST=
 ```
 
 ---
